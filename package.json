@@ -1,0 +1,20 @@
+{
+  "name": "batis-mi-vida-apk",
+  "version": "1.0.0",
+  "description": "Mi Vida — app Android (wrapper Capacitor de la web en vivo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.4.1",
+    "@capacitor/core": "^8.4.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.4.1",
+    "typescript": "^7.0.2"
+  }
+}
